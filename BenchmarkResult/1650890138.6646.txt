@@ -1,0 +1,16 @@
+Benchmark Metric: Earth Mover's Distance
+	Number of positive images in top 10 images: 7
+	Accuracy: 0.7 
+	Time elasped: 0.57 seconds
+Benchmark Metric: SIFT Similarity
+	Number of positive images in top 10 images: 2
+	Accuracy: 0.2 
+	Time elasped: 1.09 seconds
+Benchmark Metric: Pixel Similarity
+	Number of positive images in top 10 images: 2
+	Accuracy: 0.2 
+	Time elasped: 2.26 seconds
+Benchmark Metric: Structural Similarity
+	Number of positive images in top 10 images: 2
+	Accuracy: 0.2 
+	Time elasped: 0.3 seconds
